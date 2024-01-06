@@ -1,6 +1,6 @@
 ### Hey Viewer 👋
 ## This is <a href="https://github.com/NagendraVangara" target="_blank" rel="noreferrer">Nagendra</a> !
-+ 🔭 I’m currently working on dotnet Full Stack
++ 🔭 I’m currently working as Full Stack Developer
 + 👯 I’m looking to collaborate on open source projects
 + 📫 Reach me @ nagendra.vangara@gmail.com
 + 😄 Pronouns: Nag
